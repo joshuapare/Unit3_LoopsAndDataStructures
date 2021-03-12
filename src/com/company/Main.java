@@ -10,5 +10,7 @@ public class Main {
         System.out.println("Adding a short description in a print");
 
         System.out.println("Silly goose");
+
+        System.out.println("Trix are for kids");
     }
 }

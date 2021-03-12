@@ -11,6 +11,6 @@ public class Main {
 
         System.out.println("Trix are for kids");
 
-        System.out.println("Its finger-lickin' good");
+        System.out.println("Its finger-licking good");
     }
 }

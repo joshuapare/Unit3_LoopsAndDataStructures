@@ -1,6 +1,6 @@
 package com.company;
 
-import sun.lwawt.macosx.CSystemTray;
+
 
 public class Main {
 

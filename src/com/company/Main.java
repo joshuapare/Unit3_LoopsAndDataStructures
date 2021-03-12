@@ -1,7 +1,5 @@
 package com.company;
 
-
-
 public class Main {
 
     public static void main(String[] args) {
@@ -13,6 +11,6 @@ public class Main {
 
         System.out.println("Trix are for kids");
 
-        System.out.print("Its finger-lickin' good");
+        System.out.println("Its finger-lickin' good");
     }
 }

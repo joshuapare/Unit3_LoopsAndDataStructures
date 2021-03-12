@@ -1,6 +1,6 @@
 package com.company;
 
-import sun.lwawt.macosx.CSystemTray;
+
 
 public class Main {
 
@@ -12,5 +12,7 @@ public class Main {
         System.out.println("Silly goose");
 
         System.out.println("Trix are for kids");
+
+        System.out.print("Its finger-lickin' good");
     }
 }
